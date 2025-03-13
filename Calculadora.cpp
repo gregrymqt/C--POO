@@ -73,7 +73,6 @@ int main()
     bool operacaovalida = true;
 
     // No código principal (main), você decide como usar o valor retornado por lernumero. Por exemplo:
-
     double n1 = Calculadora::lernumero("Digite o primeiro numero: ");
     double n2 = Calculadora::lernumero("Digite o segundo nu2mero: ");
     // Aqui, os valores retornados por lernumero são atribuídos às variáveis n1 e n2.
